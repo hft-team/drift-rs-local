@@ -20,6 +20,7 @@ rpc_tests = []
 test_utils = []
 
 [dependencies]
+anyhow = "1.0"
 anchor-lang = "=0.29.0"
 base64 = "0.13"
 bytemuck = "1.13.0"

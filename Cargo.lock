@@ -1409,6 +1409,7 @@ version = "0.1.0"
 dependencies = [
  "anchor-client",
  "anchor-lang",
+ "anyhow",
  "base64 0.13.1",
  "borsh 1.5.1",
  "bytemuck",
